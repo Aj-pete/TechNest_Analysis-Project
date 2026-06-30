@@ -11,6 +11,8 @@
 
 ## Project Overview
 
+### Note: Power BI report and raw_data can be downloaded and viewed via this link (https://drive.google.com/drive/folders/1qoBGqTCOl52Zq9tHF1UaQRUTj4qPhziS?usp=sharing)
+
 A full end-to-end business intelligence engagement for TechNest Electronics, 
 a US-based consumer electronics accessories brand selling across Amazon, eBay, 
 Brand Website, and offline retail channels. The project diagnoses three 
@@ -161,7 +163,7 @@ ecommerce-sales-intelligence/
 │
 ├── docs/
 │   ├── Executive_Summary.pdf
-│   └── Data_Dictionary.md
+│   
 │
 ├── Ecommerce_Sales_Intelligence.pbix
 └── README.md
@@ -233,5 +235,5 @@ to a specific financial decision the executive team can make this quarter.
 
 ---
 
-*SQL scripts and data dictionary available in this repository.*  
+*SQL scripts available in this repository.*  
 *Executive summary PDF available in the docs/ folder.*
