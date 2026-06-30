@@ -236,4 +236,3 @@ to a specific financial decision the executive team can make this quarter.
 ---
 
 *SQL scripts available in this repository.*  
-*Executive summary PDF available in the docs/ folder.*
